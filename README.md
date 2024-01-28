@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Parth</h1>
+<h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate software developer and Software Tester from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth1272&label=Profile%20views&color=0e75b6&style=flat" alt="parth1272" /> </p>

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://parthambadkar.pythonanywhere.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java And Selenium**
 
 - 👯 I’m looking to collaborate on **on anything that is new any tech and align my interests**
 

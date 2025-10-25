@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">A passionate software developer and Software Tester from India</h3>
+<h3 align="center">A passionate software Software Tester from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth1272&label=Profile%20views&color=0e75b6&style=flat" alt="parth1272" /> </p>
 
 - 🔭 I’m currently working on [Portfolio Website](https://parthambadkar.pythonanywhere.com/)
 
-- 🌱 I’m currently learning **Java And Selenium**
+- 🌱 I’m currently learning **Manual testing And Automation**
 
 - 👯 I’m looking to collaborate on **on anything that is new any tech and align my interests**
 
